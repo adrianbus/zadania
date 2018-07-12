@@ -1,0 +1,72 @@
+body {
+  background: #283048; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #859398,
+    #283048
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #859398,
+    #283048
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+#social {
+  text-align: center;
+}
+#sing-up {
+  text-align: center;
+  margin-top: 5%;
+}
+.header {
+  background: ;
+}
+.login-form {
+  padding: 20px;
+  margin: 10% auto;
+  width: 70%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  box-sizing: border-box;
+}
+.left {
+  width: 50%;
+  float: left;
+  padding: 1.7em 1.5em 2.5em 1.5em;
+}
+.right {
+  width: 50%;
+  float: right;
+  padding: 1.7em 1.5em 2.5em 1.5em;
+}
+.header {
+  text-align: center;
+}
+.social-button {
+  text-align: center;
+  margin: 10px auto;
+}
+.facebook {
+  background: #3a589a;
+}
+.facebook:hover {
+  background: rgba(58, 88, 154, 0.8);
+}
+.twitter {
+  background: #4099ff;
+}
+.twitter:hover {
+  background: rgba(64, 153, 255, 0.8);
+}
+.google {
+  background: #e9544f;
+}
+.google:hover {
+  background: rgba(233, 84, 79, 0.8);
+}
+.social-button {
+  color: white;
+}
+.social-button a {
+  width: 80%;
+}
